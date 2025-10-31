@@ -1,0 +1,7006 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 1,
+				"label": "kim (2023)",
+				"description": "<table><tr><td>Authors:</td><td>kim, myung ja; hall, colin michael; kwon, ohbyung; hwang, kyunghwa; kim, jinok susanna</td></tr><tr><td>Title:</td><td>orbital and sub-orbital space tourism: motivation, constraint and artificial intelligence</td></tr><tr><td>Source:</td><td>tourism review</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/10.1108/tr-01-2023-0017",
+				"x": 0.5248,
+				"y": -0.2911,
+				"cluster": 5,
+				"weights": {
+					"Links": 31.0000,
+					"Total link strength": 77.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4667
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4667
+				}
+			},
+			{
+				"id": 2,
+				"label": "mehran (2023)",
+				"description": "<table><tr><td>Authors:</td><td>mehran, javaneh; olya, hossein; han, heesup</td></tr><tr><td>Title:</td><td>psychology of space tourism marketing, technology, and sustainable development: from a literature review to an integrative framework</td></tr><tr><td>Source:</td><td>psychology & marketing, 40(6), 1130-1151</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/10.1002/mar.21795",
+				"x": 0.4449,
+				"y": -0.2150,
+				"cluster": 2,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 317.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4667
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4667
+				}
+			},
+			{
+				"id": 3,
+				"label": "mesa-arango (2023)",
+				"description": "<table><tr><td>Authors:</td><td>mesa-arango, rodrigo; pineda-jaramillo, juan; araujo, diogo s. a.; bi, jingchen; basva, mahesh; viti, francesco</td></tr><tr><td>Title:</td><td>missions and factors determining the demand for affordable mass space tourism in the united states: a machine learning approach</td></tr><tr><td>Source:</td><td>acta astronautica, 204, 307-320</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2023.01.006",
+				"x": 0.4806,
+				"y": -0.1893,
+				"cluster": 4,
+				"weights": {
+					"Links": 45.0000,
+					"Total link strength": 201.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4667
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4667
+				}
+			},
+			{
+				"id": 4,
+				"label": "paladini (2023)",
+				"description": "<table><tr><td>Authors:</td><td>paladini, stefania; saha, krishnendu</td></tr><tr><td>Title:</td><td>the quest for sustainability in lower orbit: conceptual models for space tourism</td></tr><tr><td>Source:</td><td>international journal of tourism research</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/10.1002/jtr.2568",
+				"x": 0.0110,
+				"y": -0.4941,
+				"cluster": 3,
+				"weights": {
+					"Links": 53.0000,
+					"Total link strength": 330.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4667
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4667
+				}
+			},
+			{
+				"id": 5,
+				"label": "giachino (2023)",
+				"description": "<table><tr><td>Authors:</td><td>giachino, chiara; pucciarelli, francesca; bollani, luigi; bonadonna, alessandro</td></tr><tr><td>Title:</td><td>is generation z ready to fly into the space? the future of tourism is coming</td></tr><tr><td>Source:</td><td>futures, 145</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.futures.2022.103064",
+				"x": 0.1379,
+				"y": 0.0542,
+				"cluster": 5,
+				"weights": {
+					"Links": 45.0000,
+					"Total link strength": 159.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4667
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.4667
+				}
+			},
+			{
+				"id": 6,
+				"label": "peng (2022)",
+				"description": "<table><tr><td>Authors:</td><td>peng, kang-lin; hsu, cathy h. c.; lin, pearl m. c.; su, meng</td></tr><tr><td>Title:</td><td>proposing spacetime scale for space tourism economics</td></tr><tr><td>Source:</td><td>tourism economics</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1177/13548166221109666",
+				"x": 0.7034,
+				"y": 0.0415,
+				"cluster": 2,
+				"weights": {
+					"Links": 29.0000,
+					"Total link strength": 35.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.3529
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.3529
+				}
+			},
+			{
+				"id": 7,
+				"label": "damjanov (2022)",
+				"description": "<table><tr><td>Authors:</td><td>damjanov, katarina</td></tr><tr><td>Title:</td><td>commodity and the commons: accumulations of capital on the space frontier</td></tr><tr><td>Source:</td><td>journal of cultural economy, 15(5), 584-598</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1080/17530350.2022.2066709",
+				"x": -0.3731,
+				"y": -0.5455,
+				"cluster": 3,
+				"weights": {
+					"Links": 30.0000,
+					"Total link strength": 58.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.3529
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.3529
+				}
+			},
+			{
+				"id": 8,
+				"label": "olya (2023)",
+				"description": "<table><tr><td>Authors:</td><td>olya, hossein; han, heesup</td></tr><tr><td>Title:</td><td>emerging space tourism business: uncovering customer avoidance responses and behaviours</td></tr><tr><td>Source:</td><td>journal of vacation marketing, 29(3), 445-460</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/10.1177/13567667221101408",
+				"x": 0.0958,
+				"y": -0.2867,
+				"cluster": 5,
+				"weights": {
+					"Links": 40.0000,
+					"Total link strength": 114.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 3.2667
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 3.2667
+				}
+			},
+			{
+				"id": 9,
+				"label": "fernandez-hernandez (2022)",
+				"description": "<table><tr><td>Authors:</td><td>fernandez-hernandez, carlos; arana, jorge e.; de leon, javier; leon, carmelo j.</td></tr><tr><td>Title:</td><td>tourists' preferences for stargazing land resources</td></tr><tr><td>Source:</td><td>land, 11(2)</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.3390/land11020198",
+				"x": -0.1515,
+				"y": 0.1881,
+				"cluster": 1,
+				"weights": {
+					"Links": 48.0000,
+					"Total link strength": 148.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1765
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1765
+				}
+			},
+			{
+				"id": 10,
+				"label": "gulati (2023)",
+				"description": "<table><tr><td>Authors:</td><td>gulati, shruti</td></tr><tr><td>Title:</td><td>\"i need some space!\" deciphering space tourism discussions on social media</td></tr><tr><td>Source:</td><td>global knowledge memory and communication, 72(4/5), 424-436</td></tr><tr><td>Year:</td><td>2023</td></tr></table>",
+				"url": "https://doi.org/10.1108/gkmc-09-2021-0148",
+				"x": 0.6184,
+				"y": 0.2538,
+				"cluster": 6,
+				"weights": {
+					"Links": 40.0000,
+					"Total link strength": 89.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.4000
+				},
+				"scores": {
+					"Pub. year": 2023.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 1.4000
+				}
+			},
+			{
+				"id": 11,
+				"label": "khan (2022)",
+				"description": "<table><tr><td>Authors:</td><td>khan, m. amer</td></tr><tr><td>Title:</td><td>an analysis of the space tourism market in the united arab emirates and the kingdom of saudi arabia and its potential for development of zero-gravity and suborbital commercial spaceflights</td></tr><tr><td>Source:</td><td>new space-the journal of space entrepreneurship and innovation, 10(4), 315-329</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1089/space.2021.0007",
+				"x": 0.0529,
+				"y": 0.2632,
+				"cluster": 1,
+				"weights": {
+					"Links": 39.0000,
+					"Total link strength": 103.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1765
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1765
+				}
+			},
+			{
+				"id": 12,
+				"label": "ganesha (2021)",
+				"description": "<table><tr><td>Authors:</td><td>ganesha, kanchipura s.; sinnoor, ganapati b.</td></tr><tr><td>Title:</td><td>sentimental analysis of space tourism: evidence from twitter</td></tr><tr><td>Source:</td><td>new space-the journal of space entrepreneurship and innovation, 9(3), 148-150</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1089/space.2020.0052",
+				"x": 0.5549,
+				"y": -0.1927,
+				"cluster": 5,
+				"weights": {
+					"Links": 31.0000,
+					"Total link strength": 59.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3500
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.3500
+				}
+			},
+			{
+				"id": 13,
+				"label": "padhy (2021)",
+				"description": "<table><tr><td>Authors:</td><td>padhy, ankit kumar; padhy, amit kumar</td></tr><tr><td>Title:</td><td>legal conundrums of space tourism</td></tr><tr><td>Source:</td><td>acta astronautica, 184, 269-273</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2021.04.024",
+				"x": 0.7716,
+				"y": -0.0012,
+				"cluster": 2,
+				"weights": {
+					"Links": 33.0000,
+					"Total link strength": 71.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.7000
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.7000
+				}
+			},
+			{
+				"id": 14,
+				"label": "frost (2022)",
+				"description": "<table><tr><td>Authors:</td><td>frost, jennifer; frost, warwick</td></tr><tr><td>Title:</td><td>exploring prosocial and environmental motivations of frontier tourists: implications for sustainable space tourism</td></tr><tr><td>Source:</td><td>journal of sustainable tourism, 30(9), 2254-2270</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1080/09669582.2021.1897131",
+				"x": 0.0674,
+				"y": -0.1597,
+				"cluster": 5,
+				"weights": {
+					"Links": 42.0000,
+					"Total link strength": 112.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.2353
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 1.2353
+				}
+			},
+			{
+				"id": 15,
+				"label": "chang (2021)",
+				"description": "<table><tr><td>Authors:</td><td>chang, yi-wei (eva); chern, jeng-shing (rock)</td></tr><tr><td>Title:</td><td>a preliminary study on the potential spaceports for suborbital space tourism and intercontinental point-to-point transportation in taiwan</td></tr><tr><td>Source:</td><td>acta astronautica, 181, 492-502</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2020.11.059",
+				"x": 0.2130,
+				"y": -0.1834,
+				"cluster": 4,
+				"weights": {
+					"Links": 32.0000,
+					"Total link strength": 79.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.4000
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 1.4000
+				}
+			},
+			{
+				"id": 16,
+				"label": "kumar (2021)",
+				"description": "<table><tr><td>Authors:</td><td>kumar, vijay; raju, k. d.; subramanian, subramanian ramamurthy</td></tr><tr><td>Title:</td><td>commercial human spaceflights: legal challenges for international regulation</td></tr><tr><td>Source:</td><td>brics law journal, 8(3), 172-223</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.21684/2412-2343-2021-8-3-172-223",
+				"x": 0.9651,
+				"y": -0.0768,
+				"cluster": 2,
+				"weights": {
+					"Links": 28.0000,
+					"Total link strength": 58.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 17,
+				"label": "paskova (2021)",
+				"description": "<table><tr><td>Authors:</td><td>paskova, martina; budinska, nicol; zelenka, josef</td></tr><tr><td>Title:</td><td>astrotourism-exceeding limits of the earth and tourism definitions?</td></tr><tr><td>Source:</td><td>sustainability, 13(1)</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.3390/su13010373",
+				"x": 0.1180,
+				"y": -0.1194,
+				"cluster": 5,
+				"weights": {
+					"Links": 44.0000,
+					"Total link strength": 198.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 2.1000
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 2.1000
+				}
+			},
+			{
+				"id": 18,
+				"label": "zhang (2022)",
+				"description": "<table><tr><td>Authors:</td><td>zhang, yaozhi; wang, leran</td></tr><tr><td>Title:</td><td>progress in space tourism studies: a systematic literature review</td></tr><tr><td>Source:</td><td>tourism recreation research, 47(4), 372-383</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1080/02508281.2020.1857522",
+				"x": 0.3065,
+				"y": -0.2119,
+				"cluster": 2,
+				"weights": {
+					"Links": 60.0000,
+					"Total link strength": 418.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 1.5882
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 1.5882
+				}
+			},
+			{
+				"id": 19,
+				"label": "tasci (2021)",
+				"description": "<table><tr><td>Authors:</td><td>tasci, asli d. a.; fyall, alan d.; fu, xiaoxiao</td></tr><tr><td>Title:</td><td>social representations of space travel: modeling the antecedents and outcomes</td></tr><tr><td>Source:</td><td>international journal of tourism research, 23(4), 611-635</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1002/jtr.2430",
+				"x": 0.3733,
+				"y": -0.1023,
+				"cluster": 2,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 205.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.7000
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 2.0000,
+					"Norm. citations": 0.7000
+				}
+			},
+			{
+				"id": 20,
+				"label": "chang (2020)",
+				"description": "<table><tr><td>Authors:</td><td>chang, eva yi-wei</td></tr><tr><td>Title:</td><td>from aviation tourism to suborbital space tourism: a study on passenger screening and business opportunities</td></tr><tr><td>Source:</td><td>acta astronautica, 177, 410-420</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2020.07.020",
+				"x": 0.1502,
+				"y": -0.3259,
+				"cluster": 4,
+				"weights": {
+					"Links": 40.0000,
+					"Total link strength": 70.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.8914
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.8914
+				}
+			},
+			{
+				"id": 21,
+				"label": "spector (2020a)",
+				"description": "<table><tr><td>Authors:</td><td>spector, sam; higham, james e. s.; gossling, stefan</td></tr><tr><td>Title:</td><td>extraterrestrial transitions: desirable transport futures on earth and in outer space</td></tr><tr><td>Source:</td><td>energy research & social science, 68</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.erss.2020.101541",
+				"x": -0.7167,
+				"y": -0.7335,
+				"cluster": 3,
+				"weights": {
+					"Links": 31.0000,
+					"Total link strength": 110.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.4457
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.4457
+				}
+			},
+			{
+				"id": 22,
+				"label": "scott (2022)",
+				"description": "<table><tr><td>Authors:</td><td>scott, malcolm</td></tr><tr><td>Title:</td><td>a space tourism destination: environmental, geopolitical and tourism branding considerations for new zealand as a 'launch state'</td></tr><tr><td>Source:</td><td>journal of sustainable tourism, 30(9), 2240-2253</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1080/09669582.2020.1817049",
+				"x": -0.5585,
+				"y": -0.7547,
+				"cluster": 3,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 26.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 1.5882
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 1.5882
+				}
+			},
+			{
+				"id": 23,
+				"label": "toivonen (2022)",
+				"description": "<table><tr><td>Authors:</td><td>toivonen, annette</td></tr><tr><td>Title:</td><td>sustainability dimensions in space tourism: the case of finland</td></tr><tr><td>Source:</td><td>journal of sustainable tourism, 30(9), 2223-2239</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1080/09669582.2020.1783276",
+				"x": -0.0193,
+				"y": -0.3711,
+				"cluster": 3,
+				"weights": {
+					"Links": 39.0000,
+					"Total link strength": 119.0000,
+					"Citations": 19.0000,
+					"Norm. citations": 3.3529
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 19.0000,
+					"Norm. citations": 3.3529
+				}
+			},
+			{
+				"id": 24,
+				"label": "cohen (2022)",
+				"description": "<table><tr><td>Authors:</td><td>cohen, erik; spector, sam</td></tr><tr><td>Title:</td><td>comparative visions of cosmic expansion: implications for sustainability</td></tr><tr><td>Source:</td><td>journal of sustainable tourism, 30(9), 2207-2222</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1080/09669582.2020.1777142",
+				"x": -0.5329,
+				"y": -0.6529,
+				"cluster": 3,
+				"weights": {
+					"Links": 36.0000,
+					"Total link strength": 128.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1765
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.1765
+				}
+			},
+			{
+				"id": 25,
+				"label": "wang (2021)",
+				"description": "<table><tr><td>Authors:</td><td>wang, luyu; stepchenkova, svetlana; kirilenko, andrei p.</td></tr><tr><td>Title:</td><td>will the present younger adults become future orbital space tourists?</td></tr><tr><td>Source:</td><td>tourism recreation research, 46(1), 109-123</td></tr><tr><td>Year:</td><td>2021</td></tr></table>",
+				"url": "https://doi.org/10.1080/02508281.2020.1762342",
+				"x": 0.5633,
+				"y": 0.4859,
+				"cluster": 6,
+				"weights": {
+					"Links": 49.0000,
+					"Total link strength": 191.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 1.7500
+				},
+				"scores": {
+					"Pub. year": 2021.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 1.7500
+				}
+			},
+			{
+				"id": 26,
+				"label": "davidian (2020)",
+				"description": "<table><tr><td>Authors:</td><td>davidian, ken</td></tr><tr><td>Title:</td><td>space tourism industry emergence: description and data</td></tr><tr><td>Source:</td><td>new space-the journal of space entrepreneurship and innovation, 8(2), 87-102</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1089/space.2019.0040",
+				"x": -0.6954,
+				"y": -1.2389,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.5943
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.5943
+				}
+			},
+			{
+				"id": 27,
+				"label": "spector (2020b)",
+				"description": "<table><tr><td>Authors:</td><td>spector, sam</td></tr><tr><td>Title:</td><td>delineating acceptable risk in the space tourism industry</td></tr><tr><td>Source:</td><td>tourism recreation research, 45(4), 500-510</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1080/02508281.2020.1747798",
+				"x": 0.4312,
+				"y": -0.0426,
+				"cluster": 2,
+				"weights": {
+					"Links": 47.0000,
+					"Total link strength": 153.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 0.7429
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 0.7429
+				}
+			},
+			{
+				"id": 28,
+				"label": "olya (2020)",
+				"description": "<table><tr><td>Authors:</td><td>olya, hossein g. t.; han, heesup</td></tr><tr><td>Title:</td><td>antecedents of space traveler behavioral intention</td></tr><tr><td>Source:</td><td>journal of travel research, 59(3), 528-544</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1177/0047287519841714",
+				"x": 0.0079,
+				"y": 0.2083,
+				"cluster": 5,
+				"weights": {
+					"Links": 41.0000,
+					"Total link strength": 133.0000,
+					"Citations": 57.0000,
+					"Norm. citations": 4.2343
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 57.0000,
+					"Norm. citations": 4.2343
+				}
+			},
+			{
+				"id": 29,
+				"label": "aminudin (2020)",
+				"description": "<table><tr><td>Authors:</td><td>aminudin, norliza; jamal, salamiah a.</td></tr><tr><td>Title:</td><td>types of tourism: the travelogue of the greatest traveller</td></tr><tr><td>Source:</td><td>journal of islamic marketing, 11(2), 506-515</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1108/jima-05-2018-0089",
+				"x": 0.6898,
+				"y": 0.2880,
+				"cluster": 6,
+				"weights": {
+					"Links": 35.0000,
+					"Total link strength": 55.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 30,
+				"label": "cohen (2020a)",
+				"description": "<table><tr><td>Authors:</td><td>cohen, erik; spector, samuel</td></tr><tr><td>Title:</td><td>space tourism-past to future : a perspective article</td></tr><tr><td>Source:</td><td>tourism review, 75(1), 136-139</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1108/tr-03-2019-0083",
+				"x": -0.5307,
+				"y": -0.8310,
+				"cluster": 3,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 43.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.5943
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 8.0000,
+					"Norm. citations": 0.5943
+				}
+			},
+			{
+				"id": 31,
+				"label": "denis (2020)",
+				"description": "<table><tr><td>Authors:</td><td>denis, gil; alary, didier; pasco, xavier; pisot, nathalie; texier, delphine; toulza, sandrine</td></tr><tr><td>Title:</td><td>from new space to big space: how commercial space dream is becoming a reality</td></tr><tr><td>Source:</td><td>acta astronautica, 166, 431-443</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2019.08.031",
+				"x": -0.3812,
+				"y": -0.5922,
+				"cluster": 3,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Citations": 36.0000,
+					"Norm. citations": 2.6743
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 36.0000,
+					"Norm. citations": 2.6743
+				}
+			},
+			{
+				"id": 32,
+				"label": "musselman (2020)",
+				"description": "<table><tr><td>Authors:</td><td>musselman, brian t.; hampton, steven</td></tr><tr><td>Title:</td><td>factors influencing the emergence of suborbital space tourism</td></tr><tr><td>Source:</td><td>international journal of aviation aeronautics and aerospace, 7(2)</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"x": 0.4227,
+				"y": -0.2626,
+				"cluster": 4,
+				"weights": {
+					"Links": 29.0000,
+					"Total link strength": 97.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.0743
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.0743
+				}
+			},
+			{
+				"id": 33,
+				"label": "weibel (2020)",
+				"description": "<table><tr><td>Authors:</td><td>weibel, deana l.</td></tr><tr><td>Title:</td><td>following the path that heroes carved into history: space tourism, heritage, and faith in the future</td></tr><tr><td>Source:</td><td>religions, 11(1)</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.3390/rel11010023",
+				"x": 0.1160,
+				"y": -0.5980,
+				"cluster": 4,
+				"weights": {
+					"Links": 24.0000,
+					"Total link strength": 33.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.4457
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.4457
+				}
+			},
+			{
+				"id": 34,
+				"label": "cohen (2020b)",
+				"description": "<table><tr><td>Authors:</td><td>cohen, erik; spector, samuel</td></tr><tr><td>Title:</td><td>transhumanism and cosmic travel</td></tr><tr><td>Source:</td><td>tourism recreation research, 45(2), 176-184</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1080/02508281.2019.1679984",
+				"x": -0.6445,
+				"y": -1.0599,
+				"cluster": 3,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 43.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 0.7429
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 0.7429
+				}
+			},
+			{
+				"id": 35,
+				"label": "spector (2019)",
+				"description": "<table><tr><td>Authors:</td><td>spector, sam; higham, james e. s.</td></tr><tr><td>Title:</td><td>space tourism in the anthropocene</td></tr><tr><td>Source:</td><td>annals of tourism research, 79</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.annals.2019.102772",
+				"x": -0.4118,
+				"y": -0.4076,
+				"cluster": 3,
+				"weights": {
+					"Links": 52.0000,
+					"Total link strength": 186.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 1.8378
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 1.8378
+				}
+			},
+			{
+				"id": 36,
+				"label": "wilson (2019)",
+				"description": "<table><tr><td>Authors:</td><td>wilson, elizabeth k.</td></tr><tr><td>Title:</td><td>space tourism moves closer to lift off</td></tr><tr><td>Source:</td><td>engineering, 5(5), 819-821</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.eng.2019.08.006",
+				"x": -1.0075,
+				"y": -0.9764,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.6486
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.6486
+				}
+			},
+			{
+				"id": 37,
+				"label": "zahari (2019)",
+				"description": "<table><tr><td>Authors:</td><td>zahari, a. r.; romli, f., i</td></tr><tr><td>Title:</td><td>analysis of suborbital flight operation using pestle</td></tr><tr><td>Source:</td><td>journal of atmospheric and solar-terrestrial physics, 192</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.jastp.2018.08.006",
+				"x": 0.2558,
+				"y": 0.1889,
+				"cluster": 2,
+				"weights": {
+					"Links": 48.0000,
+					"Total link strength": 160.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.7568
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.7568
+				}
+			},
+			{
+				"id": 38,
+				"label": "spector (2020c)",
+				"description": "<table><tr><td>Authors:</td><td>spector, sam</td></tr><tr><td>Title:</td><td>the cosmic-local nexus: intersections between outer space and rural communities</td></tr><tr><td>Source:</td><td>tourism recreation research, 45(1), 94-106</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1080/02508281.2019.1658959",
+				"x": -0.5866,
+				"y": -0.5294,
+				"cluster": 3,
+				"weights": {
+					"Links": 50.0000,
+					"Total link strength": 165.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.2971
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.2971
+				}
+			},
+			{
+				"id": 39,
+				"label": "friel (2020)",
+				"description": "<table><tr><td>Authors:</td><td>friel, martha</td></tr><tr><td>Title:</td><td>tourism as a driver in the space economy: new products for intrepid travellers</td></tr><tr><td>Source:</td><td>current issues in tourism, 23(13), 1581-1586</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1080/13683500.2019.1628189",
+				"x": -0.0786,
+				"y": -0.0442,
+				"cluster": 4,
+				"weights": {
+					"Links": 44.0000,
+					"Total link strength": 96.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 1.2629
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 1.2629
+				}
+			},
+			{
+				"id": 40,
+				"label": "guerster (2019)",
+				"description": "<table><tr><td>Authors:</td><td>guerster, markus; crawley, edward; de neufville, richard</td></tr><tr><td>Title:</td><td>commercial viability evaluation of the suborbital space tourism industry</td></tr><tr><td>Source:</td><td>new space-the journal of space entrepreneurship and innovation, 7(2), 79-92</td></tr><tr><td>Year:</td><td>2019</td></tr></table>",
+				"url": "https://doi.org/10.1089/space.2018.0038",
+				"x": -0.3979,
+				"y": 0.4091,
+				"cluster": 1,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 13.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.7568
+				},
+				"scores": {
+					"Pub. year": 2019.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.7568
+				}
+			},
+			{
+				"id": 41,
+				"label": "benjamin (2018)",
+				"description": "<table><tr><td>Authors:</td><td>benjamin, scott</td></tr><tr><td>Title:</td><td>exploration to exploitation: an industry analysis of suborbital space tourism</td></tr><tr><td>Source:</td><td>new space-the journal of space entrepreneurship and innovation, 6(1), 87-98</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/10.1089/space.2017.0041",
+				"x": -0.4421,
+				"y": 0.3924,
+				"cluster": 1,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 12.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.5172
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.5172
+				}
+			},
+			{
+				"id": 42,
+				"label": "damjanov (2018)",
+				"description": "<table><tr><td>Authors:</td><td>damjanov, katarina; crouch, david</td></tr><tr><td>Title:</td><td>extra-planetary mobilities and the media prospects of virtual space tourism</td></tr><tr><td>Source:</td><td>mobilities, 13(1), 1-13</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/10.1080/17450101.2017.1336024",
+				"x": -0.2240,
+				"y": -0.6581,
+				"cluster": 3,
+				"weights": {
+					"Links": 24.0000,
+					"Total link strength": 47.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 0.9310
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 0.9310
+				}
+			},
+			{
+				"id": 43,
+				"label": "peeters (2018)",
+				"description": "<table><tr><td>Authors:</td><td>peeters, paul</td></tr><tr><td>Title:</td><td>why space tourism will not be part of sustainable tourism</td></tr><tr><td>Source:</td><td>tourism recreation research, 43(4), 540-543</td></tr><tr><td>Year:</td><td>2018</td></tr></table>",
+				"url": "https://doi.org/10.1080/02508281.2018.1511942",
+				"x": -0.5525,
+				"y": -0.4710,
+				"cluster": 3,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 16.0000,
+					"Citations": 15.0000,
+					"Norm. citations": 1.5517
+				},
+				"scores": {
+					"Pub. year": 2018.0000,
+					"Citations": 15.0000,
+					"Norm. citations": 1.5517
+				}
+			},
+			{
+				"id": 44,
+				"label": "forganni (2017)",
+				"description": "<table><tr><td>Authors:</td><td>forganni, antonella</td></tr><tr><td>Title:</td><td>the potential of space tourism for space popularisation: an opportunity for the eu space policy?</td></tr><tr><td>Source:</td><td>space policy, 41, 48-52</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.spacepol.2017.04.005",
+				"x": 1.0414,
+				"y": -0.1168,
+				"cluster": 2,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 36.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 0.6618
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 9.0000,
+					"Norm. citations": 0.6618
+				}
+			},
+			{
+				"id": 45,
+				"label": "chang (2017)",
+				"description": "<table><tr><td>Authors:</td><td>chang, yi-wei</td></tr><tr><td>Title:</td><td>a preliminary examination of the relationship between consumer attitude towards space travel and the development of innovative space tourism technology</td></tr><tr><td>Source:</td><td>current issues in tourism, 20(14), 1431-1453</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/10.1080/13683500.2015.1005580",
+				"x": 0.2306,
+				"y": 0.1332,
+				"cluster": 5,
+				"weights": {
+					"Links": 38.0000,
+					"Total link strength": 125.0000,
+					"Citations": 19.0000,
+					"Norm. citations": 1.3971
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 19.0000,
+					"Norm. citations": 1.3971
+				}
+			},
+			{
+				"id": 46,
+				"label": "cohen (2017)",
+				"description": "<table><tr><td>Authors:</td><td>cohen, erik</td></tr><tr><td>Title:</td><td>the paradoxes of space tourism</td></tr><tr><td>Source:</td><td>tourism recreation research, 42(1), 22-31</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/10.1080/02508281.2016.1239331",
+				"x": -0.0262,
+				"y": -0.2488,
+				"cluster": 4,
+				"weights": {
+					"Links": 44.0000,
+					"Total link strength": 87.0000,
+					"Citations": 16.0000,
+					"Norm. citations": 1.1765
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 16.0000,
+					"Norm. citations": 1.1765
+				}
+			},
+			{
+				"id": 47,
+				"label": "orme (2017)",
+				"description": "<table><tr><td>Authors:</td><td>orme, kylie cox</td></tr><tr><td>Title:</td><td>guardians of the galaxy: how space tourism regulation will shape telehealth</td></tr><tr><td>Source:</td><td>air & space law, 42(2), 163-184</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"x": 0.1729,
+				"y": -0.6834,
+				"cluster": 4,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 9.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.2206
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.2206
+				}
+			},
+			{
+				"id": 48,
+				"label": "spector (2017)",
+				"description": "<table><tr><td>Authors:</td><td>spector, samuel; higham, james e. s.; doering, adam</td></tr><tr><td>Title:</td><td>beyond the biosphere: tourism, outer space, and sustainability</td></tr><tr><td>Source:</td><td>tourism recreation research, 42(3), 273-283</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/10.1080/02508281.2017.1286062",
+				"x": -0.3153,
+				"y": -0.1404,
+				"cluster": 3,
+				"weights": {
+					"Links": 58.0000,
+					"Total link strength": 182.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 1.5441
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 1.5441
+				}
+			},
+			{
+				"id": 49,
+				"label": "chang (2016)",
+				"description": "<table><tr><td>Authors:</td><td>chang, yi-wei; chern, jeng-shing</td></tr><tr><td>Title:</td><td>ups and downs of space tourism development in 60 years from moon register to spaceshiptwo crash</td></tr><tr><td>Source:</td><td>acta astronautica, 127, 533-541</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2016.06.008",
+				"x": 0.0548,
+				"y": 0.7176,
+				"cluster": 8,
+				"weights": {
+					"Links": 37.0000,
+					"Total link strength": 99.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 50,
+				"label": "johnson (2016)",
+				"description": "<table><tr><td>Authors:</td><td>johnson, mark r.; martin, daryl</td></tr><tr><td>Title:</td><td>the anticipated futures of space tourism</td></tr><tr><td>Source:</td><td>mobilities, 11(1), 135-151</td></tr><tr><td>Year:</td><td>2016</td></tr></table>",
+				"url": "https://doi.org/10.1080/17450101.2015.1097034",
+				"x": -0.1070,
+				"y": -0.6666,
+				"cluster": 3,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 24.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Pub. year": 2016.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 51,
+				"label": "savino (2015)",
+				"description": "<table><tr><td>Authors:</td><td>savino, raffaele; russo, gennaro; d'oriano, vera; visone, michele; battipede, manuela; gili, piero</td></tr><tr><td>Title:</td><td>performances of a small hypersonic airplane (hyplane)</td></tr><tr><td>Source:</td><td>acta astronautica, 115, 338-348</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2015.06.006",
+				"x": 0.6683,
+				"y": -0.0496,
+				"cluster": 2,
+				"weights": {
+					"Links": 23.0000,
+					"Total link strength": 30.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 0.5238
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 0.5238
+				}
+			},
+			{
+				"id": 52,
+				"label": "chang (2015)",
+				"description": "<table><tr><td>Authors:</td><td>chang, yi-wei</td></tr><tr><td>Title:</td><td>the first decade of commercial space tourism</td></tr><tr><td>Source:</td><td>acta astronautica, 108, 79-91</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2014.12.004",
+				"x": -0.1892,
+				"y": 0.4211,
+				"cluster": 1,
+				"weights": {
+					"Links": 49.0000,
+					"Total link strength": 154.0000,
+					"Citations": 33.0000,
+					"Norm. citations": 1.5714
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 33.0000,
+					"Norm. citations": 1.5714
+				}
+			},
+			{
+				"id": 54,
+				"label": "bernasconi (2014)",
+				"description": "<table><tr><td>Authors:</td><td>bernasconi, marco c.</td></tr><tr><td>Title:</td><td>an ethical duty: let astronautical development unfold - to make the people more secure</td></tr><tr><td>Source:</td><td>acta astronautica, 104(2), 491-501</td></tr><tr><td>Year:</td><td>2014</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2014.04.011",
+				"x": -0.7080,
+				"y": 0.2002,
+				"cluster": 1,
+				"weights": {
+					"Links": 15.0000,
+					"Total link strength": 18.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Pub. year": 2014.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 55,
+				"label": "ametova (2013)",
+				"description": "<table><tr><td>Authors:</td><td>ametova, lutfiie</td></tr><tr><td>Title:</td><td>international interest in space assets under the cape town convention</td></tr><tr><td>Source:</td><td>acta astronautica, 92(2), 213-225</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2012.09.007",
+				"x": 1.0570,
+				"y": -0.0044,
+				"cluster": 2,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 8.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.2449
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.2449
+				}
+			},
+			{
+				"id": 56,
+				"label": "johnson (2013)",
+				"description": "<table><tr><td>Authors:</td><td>johnson, christopher d.</td></tr><tr><td>Title:</td><td>the texas space flight liability act and efficient regulation for the private commercial space flight era</td></tr><tr><td>Source:</td><td>acta astronautica, 92(2), 226-234</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2012.05.025",
+				"x": 0.7833,
+				"y": 0.1351,
+				"cluster": 2,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 18.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.2449
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 3.0000,
+					"Norm. citations": 0.2449
+				}
+			},
+			{
+				"id": 57,
+				"label": "kluge (2013)",
+				"description": "<table><tr><td>Authors:</td><td>kluge, goetz; stern, claudia; trammer, martin; chaudhuri, indra; tuschy, peter; gerzer, rupert</td></tr><tr><td>Title:</td><td>commercial suborbital space tourism-proposal on passenger's medical selection</td></tr><tr><td>Source:</td><td>acta astronautica, 92(2), 187-192</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2012.08.005",
+				"x": 1.0244,
+				"y": 0.9771,
+				"cluster": 6,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.9796
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.9796
+				}
+			},
+			{
+				"id": 59,
+				"label": "rosa (2013)",
+				"description": "<table><tr><td>Authors:</td><td>rosa, ana cristina van oijhuizen galhego</td></tr><tr><td>Title:</td><td>aviation or space policy: new challenges for the insurance sector to private human access to space</td></tr><tr><td>Source:</td><td>acta astronautica, 92(2), 235-242</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2012.11.016",
+				"x": 0.1724,
+				"y": 0.3577,
+				"cluster": 2,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 22.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.4082
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 5.0000,
+					"Norm. citations": 0.4082
+				}
+			},
+			{
+				"id": 60,
+				"label": "von der dunk (2013)",
+				"description": "<table><tr><td>Authors:</td><td>von der dunk, frans g.</td></tr><tr><td>Title:</td><td>the integrated approach-regulating private human spaceflight as space activity, aircraft operation, and high-risk adventure tourism</td></tr><tr><td>Source:</td><td>acta astronautica, 92(2), 199-208</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2012.05.020",
+				"x": 1.1816,
+				"y": -0.0011,
+				"cluster": 2,
+				"weights": {
+					"Links": 13.0000,
+					"Total link strength": 21.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.0612
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.0612
+				}
+			},
+			{
+				"id": 62,
+				"label": "goehlich (2013)",
+				"description": "<table><tr><td>Authors:</td><td>goehlich, robert a.; anderson, jay k.; harrold, nathan n.; bemis, joseph a.; nettleingham, mike t.; cobin, joshua m.; zimmerman, bradley r.; avni, ben l.; gonyea, michael d.; ilchena, nicholas y.</td></tr><tr><td>Title:</td><td>pilots for space tourism</td></tr><tr><td>Source:</td><td>space policy, 29(2), 144-153</td></tr><tr><td>Year:</td><td>2013</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.spacepol.2013.03.011",
+				"x": 0.6754,
+				"y": 0.1135,
+				"cluster": 2,
+				"weights": {
+					"Links": 31.0000,
+					"Total link strength": 43.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.4898
+				},
+				"scores": {
+					"Pub. year": 2013.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.4898
+				}
+			},
+			{
+				"id": 63,
+				"label": "reddy (2012)",
+				"description": "<table><tr><td>Authors:</td><td>reddy, maharaj vijay; nica, mirela; wilkes, keith</td></tr><tr><td>Title:</td><td>space tourism: research recommendations for the future of the industry and perspectives of potential participants</td></tr><tr><td>Source:</td><td>tourism management, 33(5), 1093-1102</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.tourman.2011.11.026",
+				"x": -0.3046,
+				"y": 0.3779,
+				"cluster": 1,
+				"weights": {
+					"Links": 38.0000,
+					"Total link strength": 102.0000,
+					"Citations": 42.0000,
+					"Norm. citations": 1.5849
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 42.0000,
+					"Norm. citations": 1.5849
+				}
+			},
+			{
+				"id": 64,
+				"label": "beery (2012)",
+				"description": "<table><tr><td>Authors:</td><td>beery, jason</td></tr><tr><td>Title:</td><td>state, capital and spaceships: a terrestrial geography of space tourism</td></tr><tr><td>Source:</td><td>geoforum, 43(1), 25-34</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.geoforum.2011.07.013",
+				"x": -0.5474,
+				"y": -0.5045,
+				"cluster": 3,
+				"weights": {
+					"Links": 12.0000,
+					"Total link strength": 13.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 0.4151
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 11.0000,
+					"Norm. citations": 0.4151
+				}
+			},
+			{
+				"id": 65,
+				"label": "von der dunk (2011)",
+				"description": "<table><tr><td>Authors:</td><td>von der dunk, frans g.</td></tr><tr><td>Title:</td><td>space tourism, private spaceflight and the law: key aspects</td></tr><tr><td>Source:</td><td>space policy, 27(3), 146-152</td></tr><tr><td>Year:</td><td>2011</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.spacepol.2011.04.015",
+				"x": 1.2598,
+				"y": -0.0126,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 8.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 1.6190
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 17.0000,
+					"Norm. citations": 1.6190
+				}
+			},
+			{
+				"id": 66,
+				"label": "ingle (2011)",
+				"description": "<table><tr><td>Authors:</td><td>ingle, mark</td></tr><tr><td>Title:</td><td>the copernican shift in space tourism and its implications for tourism in the great karoo</td></tr><tr><td>Source:</td><td>south african geographical journal, 93(1), 104-118</td></tr><tr><td>Year:</td><td>2011</td></tr></table>",
+				"url": "https://doi.org/10.1080/03736245.2011.561543",
+				"x": -1.1456,
+				"y": 0.5470,
+				"cluster": 7,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 13.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.3810
+				},
+				"scores": {
+					"Pub. year": 2011.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 0.3810
+				}
+			},
+			{
+				"id": 67,
+				"label": "cater (2010)",
+				"description": "<table><tr><td>Authors:</td><td>cater, carl iain</td></tr><tr><td>Title:</td><td>steps to space; opportunities for astrotourism</td></tr><tr><td>Source:</td><td>tourism management, 31(6), 838-845</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.tourman.2009.09.001",
+				"x": -0.3984,
+				"y": 0.1684,
+				"cluster": 1,
+				"weights": {
+					"Links": 43.0000,
+					"Total link strength": 80.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 1.7730
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 1.7730
+				}
+			},
+			{
+				"id": 70,
+				"label": "collins (2010)",
+				"description": "<table><tr><td>Authors:</td><td>collins, patrick; autino, adriano</td></tr><tr><td>Title:</td><td>what the growth of a space tourism industry could contribute to employment, economic growth, environmental protection, education, culture and world peace</td></tr><tr><td>Source:</td><td>acta astronautica, 66(11-12), 1553-1562</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2009.09.012",
+				"x": -0.7996,
+				"y": 0.5382,
+				"cluster": 1,
+				"weights": {
+					"Links": 16.0000,
+					"Total link strength": 33.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 1.4894
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 1.4894
+				}
+			},
+			{
+				"id": 71,
+				"label": "hobe (2010)",
+				"description": "<table><tr><td>Authors:</td><td>hobe, stephan</td></tr><tr><td>Title:</td><td>the legal regime for private space tourism activities-an overview</td></tr><tr><td>Source:</td><td>acta astronautica, 66(11-12), 1593-1596</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2009.08.019",
+				"x": 1.3148,
+				"y": -0.0364,
+				"cluster": 2,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.4965
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.4965
+				}
+			},
+			{
+				"id": 73,
+				"label": "masson-zwaan (2010)",
+				"description": "<table><tr><td>Authors:</td><td>masson-zwaan, tanja; freeland, steven</td></tr><tr><td>Title:</td><td>between heaven and earth: the legal challenges of human space travel</td></tr><tr><td>Source:</td><td>acta astronautica, 66(11-12), 1597-1607</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2009.12.015",
+				"x": 1.2856,
+				"y": -0.0357,
+				"cluster": 2,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 8.0000,
+					"Citations": 22.0000,
+					"Norm. citations": 1.5603
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 22.0000,
+					"Norm. citations": 1.5603
+				}
+			},
+			{
+				"id": 74,
+				"label": "peeters (2010)",
+				"description": "<table><tr><td>Authors:</td><td>peeters, walter</td></tr><tr><td>Title:</td><td>from suborbital space tourism to commercial personal spaceflight</td></tr><tr><td>Source:</td><td>acta astronautica, 66(11-12), 1625-1632</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2009.10.026",
+				"x": 1.1987,
+				"y": -0.2494,
+				"cluster": 2,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 5.0000,
+					"Citations": 19.0000,
+					"Norm. citations": 1.3475
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 19.0000,
+					"Norm. citations": 1.3475
+				}
+			},
+			{
+				"id": 75,
+				"label": "webber (2010)",
+				"description": "<table><tr><td>Authors:</td><td>webber, derek</td></tr><tr><td>Title:</td><td>point-to-point sub-orbital space tourism: some initial considerations</td></tr><tr><td>Source:</td><td>acta astronautica, 66(11-12), 1645-1651</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2009.09.024",
+				"x": -0.6464,
+				"y": 0.7977,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.4255
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.4255
+				}
+			},
+			{
+				"id": 76,
+				"label": "ziliotto (2010)",
+				"description": "<table><tr><td>Authors:</td><td>ziliotto, veronique</td></tr><tr><td>Title:</td><td>relevance of the futron/zogby survey conclusions to the current space tourism industry</td></tr><tr><td>Source:</td><td>acta astronautica, 66(11-12), 1547-1552</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2009.08.027",
+				"x": -0.6813,
+				"y": 0.8001,
+				"cluster": 1,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 2.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 0.9220
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 0.9220
+				}
+			},
+			{
+				"id": 77,
+				"label": "crouch (2009)",
+				"description": "<table><tr><td>Authors:</td><td>crouch, geoffrey i.; devinney, timothy m.; louviere, jordan j.; islam, towhidul</td></tr><tr><td>Title:</td><td>modelling consumer choice behaviour in space tourism</td></tr><tr><td>Source:</td><td>tourism management, 30(3), 441-454</td></tr><tr><td>Year:</td><td>2009</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.tourman.2008.07.003",
+				"x": -0.5213,
+				"y": 0.4473,
+				"cluster": 1,
+				"weights": {
+					"Links": 28.0000,
+					"Total link strength": 42.0000,
+					"Citations": 67.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Pub. year": 2009.0000,
+					"Citations": 67.0000,
+					"Norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 79,
+				"label": "ashford (2007a)",
+				"description": "<table><tr><td>Authors:</td><td>ashford, david</td></tr><tr><td>Title:</td><td>a new space strategy for europe</td></tr><tr><td>Source:</td><td>jbis-journal of the british interplanetary society, 60(11), 390-394</td></tr><tr><td>Year:</td><td>2007</td></tr></table>",
+				"x": -0.4857,
+				"y": 0.5601,
+				"cluster": 1,
+				"weights": {
+					"Links": 5.0000,
+					"Total link strength": 8.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				},
+				"scores": {
+					"Pub. year": 2007.0000,
+					"Citations": 0.0000,
+					"Norm. citations": 0.0000
+				}
+			},
+			{
+				"id": 81,
+				"label": "collins (2007)",
+				"description": "<table><tr><td>Authors:</td><td>collins, patrick</td></tr><tr><td>Title:</td><td>economic benefits of space tourism to europe</td></tr><tr><td>Source:</td><td>jbis-journal of the british interplanetary society, 60(11), 395-400</td></tr><tr><td>Year:</td><td>2007</td></tr></table>",
+				"x": -0.7721,
+				"y": 0.4565,
+				"cluster": 1,
+				"weights": {
+					"Links": 17.0000,
+					"Total link strength": 29.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.6250
+				},
+				"scores": {
+					"Pub. year": 2007.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.6250
+				}
+			},
+			{
+				"id": 82,
+				"label": "spennemann (2007)",
+				"description": "<table><tr><td>Authors:</td><td>spennemann, dirk h. r.</td></tr><tr><td>Title:</td><td>the opportunities for star tourism - as a motivation for space tourism</td></tr><tr><td>Source:</td><td>jbis-journal of the british interplanetary society, 60(11), 414-418</td></tr><tr><td>Year:</td><td>2007</td></tr></table>",
+				"x": -0.3666,
+				"y": 0.3720,
+				"cluster": 1,
+				"weights": {
+					"Links": 34.0000,
+					"Total link strength": 48.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.6250
+				},
+				"scores": {
+					"Pub. year": 2007.0000,
+					"Citations": 1.0000,
+					"Norm. citations": 0.6250
+				}
+			},
+			{
+				"id": 83,
+				"label": "ashford (2007c)",
+				"description": "<table><tr><td>Authors:</td><td>ashford, d. m.</td></tr><tr><td>Title:</td><td>new commercial opportunities in space</td></tr><tr><td>Source:</td><td>aeronautical journal, 111(1116), 61-75</td></tr><tr><td>Year:</td><td>2007</td></tr></table>",
+				"url": "https://doi.org/10.1017/s0001924000001779",
+				"x": -0.5199,
+				"y": 0.5450,
+				"cluster": 1,
+				"weights": {
+					"Links": 11.0000,
+					"Total link strength": 14.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 2.5000
+				},
+				"scores": {
+					"Pub. year": 2007.0000,
+					"Citations": 4.0000,
+					"Norm. citations": 2.5000
+				}
+			},
+			{
+				"id": 84,
+				"label": "collins (2006a)",
+				"description": "<table><tr><td>Authors:</td><td>collins, patrick</td></tr><tr><td>Title:</td><td>the economic benefits of space tourism</td></tr><tr><td>Source:</td><td>jbis-journal of the british interplanetary society, 59(11), 400-410</td></tr><tr><td>Year:</td><td>2006</td></tr></table>",
+				"x": -0.7632,
+				"y": 0.5974,
+				"cluster": 1,
+				"weights": {
+					"Links": 18.0000,
+					"Total link strength": 41.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.6176
+				},
+				"scores": {
+					"Pub. year": 2006.0000,
+					"Citations": 7.0000,
+					"Norm. citations": 0.6176
+				}
+			},
+			{
+				"id": 85,
+				"label": "hempsell (2006)",
+				"description": "<table><tr><td>Authors:</td><td>hempsell, mark</td></tr><tr><td>Title:</td><td>space tourism in the context of a diverse market</td></tr><tr><td>Source:</td><td>jbis-journal of the british interplanetary society, 59(11), 411-416</td></tr><tr><td>Year:</td><td>2006</td></tr></table>",
+				"x": -0.3996,
+				"y": 0.5354,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.5294
+				},
+				"scores": {
+					"Pub. year": 2006.0000,
+					"Citations": 6.0000,
+					"Norm. citations": 0.5294
+				}
+			},
+			{
+				"id": 87,
+				"label": "billings (2006)",
+				"description": "<table><tr><td>Authors:</td><td>billings, linda</td></tr><tr><td>Title:</td><td>exploration for the masses? or joyrides for the ultra-rich? prospects for space tourism</td></tr><tr><td>Source:</td><td>space policy, 22(3), 162-164</td></tr><tr><td>Year:</td><td>2006</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.spacepol.2006.05.001",
+				"x": 0.0916,
+				"y": 1.0326,
+				"cluster": 8,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Citations": 20.0000,
+					"Norm. citations": 1.7647
+				},
+				"scores": {
+					"Pub. year": 2006.0000,
+					"Citations": 20.0000,
+					"Norm. citations": 1.7647
+				}
+			},
+			{
+				"id": 88,
+				"label": "collins (2006b)",
+				"description": "<table><tr><td>Authors:</td><td>collins, p</td></tr><tr><td>Title:</td><td>space tourism: from earth orbit to the moon</td></tr><tr><td>Source:</td><td>moon and near-earth objects, 37(1), 116-122</td></tr><tr><td>Year:</td><td>2006</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.asr.2005.05.107",
+				"x": -0.8011,
+				"y": 0.6192,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 16.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 0.8824
+				},
+				"scores": {
+					"Pub. year": 2006.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 0.8824
+				}
+			},
+			{
+				"id": 89,
+				"label": "marsh (2006)",
+				"description": "<table><tr><td>Authors:</td><td>marsh, melinda</td></tr><tr><td>Title:</td><td>ethical and medical dilemmas of space tourism</td></tr><tr><td>Source:</td><td>space life sciences: flight measurements, calibration of detectors and environmental models for radiation analysis, 37(9), 1823-1827</td></tr><tr><td>Year:</td><td>2006</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.asr.2006.03.001",
+				"x": -1.1882,
+				"y": 0.5661,
+				"cluster": 7,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 1.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.1471
+				},
+				"scores": {
+					"Pub. year": 2006.0000,
+					"Citations": 13.0000,
+					"Norm. citations": 1.1471
+				}
+			},
+			{
+				"id": 90,
+				"label": "goehlich (2005)",
+				"description": "<table><tr><td>Authors:</td><td>goehlich, ra</td></tr><tr><td>Title:</td><td>a ticket pricing strategy for an oligopolistic space tourism market</td></tr><tr><td>Source:</td><td>space policy, 21(4), 293-306</td></tr><tr><td>Year:</td><td>2005</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.spacepol.2005.08.007",
+				"x": -0.8527,
+				"y": 0.4963,
+				"cluster": 1,
+				"weights": {
+					"Links": 1.0000,
+					"Total link strength": 2.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 0.4839
+				},
+				"scores": {
+					"Pub. year": 2005.0000,
+					"Citations": 10.0000,
+					"Norm. citations": 0.4839
+				}
+			},
+			{
+				"id": 93,
+				"label": "spennemann (2004)",
+				"description": "<table><tr><td>Authors:</td><td>spennemann, dhr</td></tr><tr><td>Title:</td><td>the ethics of treading on neil armstrong's footprints</td></tr><tr><td>Source:</td><td>space policy, 20(4), 279-290</td></tr><tr><td>Year:</td><td>2004</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.spacepol.2004.08.005",
+				"x": -0.6013,
+				"y": 0.0125,
+				"cluster": 1,
+				"weights": {
+					"Links": 14.0000,
+					"Total link strength": 19.0000,
+					"Citations": 30.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Pub. year": 2004.0000,
+					"Citations": 30.0000,
+					"Norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 95,
+				"label": "penn (2003)",
+				"description": "<table><tr><td>Authors:</td><td>penn, jp; lindley, ca</td></tr><tr><td>Title:</td><td>requirements and approach for a space tourism launch system</td></tr><tr><td>Source:</td><td>acta astronautica, 52(1), 49-75</td></tr><tr><td>Year:</td><td>2003</td></tr></table>",
+				"url": "https://doi.org/10.1016/s0094-5765(02)00117-0",
+				"x": 0.8704,
+				"y": 0.4576,
+				"cluster": 6,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.5217
+				},
+				"scores": {
+					"Pub. year": 2003.0000,
+					"Citations": 12.0000,
+					"Norm. citations": 0.5217
+				}
+			},
+			{
+				"id": 99,
+				"label": "collins (2001)",
+				"description": "<table><tr><td>Authors:</td><td>collins, p</td></tr><tr><td>Title:</td><td>public choice economics and space policy: realising space tourism</td></tr><tr><td>Source:</td><td>acta astronautica, 48(5-12), 921-950</td></tr><tr><td>Year:</td><td>2001</td></tr></table>",
+				"url": "https://doi.org/10.1016/s0094-5765(01)00067-4",
+				"x": -0.7140,
+				"y": 0.6126,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 6.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 1.5556
+				},
+				"scores": {
+					"Pub. year": 2001.0000,
+					"Citations": 14.0000,
+					"Norm. citations": 1.5556
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 1,
+				"target_id": 2,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 3,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 4,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 5,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 6,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 8,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 9,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 10,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 11,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 12,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 14,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 15,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 17,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 18,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 19,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 25,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 27,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 32,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 1,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 3,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 4,
+				"strength": 25.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 5,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 6,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 7,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 8,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 9,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 10,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 11,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 12,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 13,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 14,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 15,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 16,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 17,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 18,
+				"strength": 36.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 19,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 20,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 21,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 22,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 23,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 24,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 25,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 27,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 28,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 32,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 35,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 37,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 38,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 39,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 42,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 44,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 45,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 46,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 48,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 49,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 52,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 56,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 59,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 62,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 63,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 67,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 2,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 4,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 5,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 6,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 8,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 9,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 10,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 11,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 12,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 13,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 14,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 15,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 16,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 17,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 18,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 19,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 20,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 23,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 25,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 27,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 28,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 32,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 34,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 35,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 37,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 38,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 39,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 45,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 46,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 48,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 49,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 52,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 63,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 67,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 77,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 3,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 5,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 6,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 7,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 8,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 9,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 10,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 11,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 12,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 13,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 14,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 15,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 16,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 17,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 18,
+				"strength": 55.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 19,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 20,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 21,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 22,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 23,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 24,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 25,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 26,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 27,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 28,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 30,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 32,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 33,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 34,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 35,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 37,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 38,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 39,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 42,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 45,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 46,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 48,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 49,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 52,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 59,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 63,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 67,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 82,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 4,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 6,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 8,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 9,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 10,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 11,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 12,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 13,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 14,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 15,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 16,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 17,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 18,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 19,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 20,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 23,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 25,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 27,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 28,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 32,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 35,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 37,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 38,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 39,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 41,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 45,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 48,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 49,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 52,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 63,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 67,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 77,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 5,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 8,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 9,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 10,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 11,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 12,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 13,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 14,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 17,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 18,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 19,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 25,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 27,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 6,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 13,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 14,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 17,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 18,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 19,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 21,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 23,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 25,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 30,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 31,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 33,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 34,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 35,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 38,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 41,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 42,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 46,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 50,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 7,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 9,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 10,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 11,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 12,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 14,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 15,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 17,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 18,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 19,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 21,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 23,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 25,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 27,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 28,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 31,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 35,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 38,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 45,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 48,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 52,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 63,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 67,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 8,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 10,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 11,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 12,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 13,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 14,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 15,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 16,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 17,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 18,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 19,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 23,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 25,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 27,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 28,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 32,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 34,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 35,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 37,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 38,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 39,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 48,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 52,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 63,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 67,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 77,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 79,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 82,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 9,
+				"target_id": 93,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 11,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 12,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 14,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 15,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 17,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 18,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 19,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 23,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 25,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 27,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 28,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 29,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 35,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 37,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 39,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 44,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 48,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 49,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 52,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 60,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 63,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 82,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 10,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 12,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 14,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 15,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 17,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 18,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 19,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 25,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 27,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 28,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 35,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 37,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 38,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 39,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 40,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 41,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 45,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 48,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 52,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 63,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 67,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 77,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 11,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 13,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 14,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 15,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 17,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 18,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 25,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 27,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 32,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 12,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 15,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 16,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 17,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 18,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 19,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 23,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 25,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 27,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 32,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 37,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 49,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 52,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 56,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 59,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 13,
+				"target_id": 65,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 15,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 16,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 17,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 18,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 19,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 21,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 23,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 24,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 25,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 27,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 28,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 35,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 37,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 38,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 39,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 45,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 48,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 52,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 63,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 14,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 17,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 18,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 19,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 20,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 25,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 27,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 28,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 32,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 37,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 45,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 49,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 52,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 15,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 17,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 18,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 19,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 23,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 25,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 27,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 37,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 39,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 44,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 55,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 16,
+				"target_id": 73,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 18,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 19,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 21,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 22,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 23,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 24,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 25,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 27,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 28,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 32,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 35,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 37,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 38,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 39,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 42,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 45,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 46,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 48,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 49,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 52,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 63,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 67,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 17,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 19,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 20,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 21,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 22,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 23,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 24,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 25,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 27,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 28,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 30,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 32,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 33,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 34,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 35,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 37,
+				"strength": 17.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 38,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 39,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 42,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 43,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 44,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 45,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 46,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 48,
+				"strength": 11.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 49,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 52,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 56,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 59,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 62,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 63,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 67,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 82,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 84,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 18,
+				"target_id": 93,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 20,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 21,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 23,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 24,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 25,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 27,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 28,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 30,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 32,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 34,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 35,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 37,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 38,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 39,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 42,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 44,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 45,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 46,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 48,
+				"strength": 9.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 49,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 52,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 60,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 62,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 63,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 67,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 19,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 21,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 24,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 25,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 27,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 29,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 32,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 34,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 35,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 37,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 38,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 39,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 49,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 52,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 20,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 22,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 23,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 24,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 25,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 27,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 28,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 30,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 34,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 35,
+				"strength": 13.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 36,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 38,
+				"strength": 16.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 42,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 48,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 50,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 21,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 23,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 24,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 35,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 38,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 22,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 24,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 25,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 27,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 30,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 33,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 35,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 38,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 39,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 43,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 48,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 52,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 63,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 25,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 27,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 30,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 34,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 35,
+				"strength": 15.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 37,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 38,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 48,
+				"strength": 10.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 24,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 27,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 28,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 29,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 30,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 33,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 35,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 37,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 38,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 39,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 45,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 46,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 48,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 49,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 52,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 57,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 62,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 63,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 67,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 77,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 25,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 26,
+				"target_id": 34,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 28,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 30,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 32,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 35,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 37,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 38,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 39,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 45,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 48,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 52,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 56,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 59,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 62,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 63,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 65,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 67,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 77,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 27,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 29,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 32,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 35,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 37,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 38,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 39,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 41,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 45,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 46,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 48,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 49,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 52,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 63,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 67,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 77,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 35,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 37,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 44,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 52,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 29,
+				"target_id": 95,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 33,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 34,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 35,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 38,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 48,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 30,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 35,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 31,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 37,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 39,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 42,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 45,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 46,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 49,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 32,
+				"target_id": 52,
+				"strength": 6.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 42,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 46,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 33,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 35,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 38,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 48,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 34,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 37,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 38,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 39,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 45,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 48,
+				"strength": 12.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 52,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 63,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 66,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 67,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 77,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 35,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 36,
+				"target_id": 38,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 38,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 40,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 44,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 45,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 46,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 48,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 49,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 52,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 56,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 59,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 62,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 63,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 82,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 37,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 39,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 43,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 45,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 48,
+				"strength": 14.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 50,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 52,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 54,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 63,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 67,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 70,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 84,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 38,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 40,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 41,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 42,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 46,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 49,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 51,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 52,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 39,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 41,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 46,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 40,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 63,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 41,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 46,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 50,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 42,
+				"target_id": 64,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 48,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 43,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 50,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 60,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 74,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 44,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 46,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 48,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 49,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 52,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 63,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 67,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 77,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 47,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 48,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 49,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 52,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 67,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 46,
+				"target_id": 82,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 47,
+				"target_id": 48,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 49,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 52,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 54,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 60,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 62,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 63,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 64,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 66,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 67,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 84,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 51,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 52,
+				"strength": 20.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 54,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 49,
+				"target_id": 87,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 50,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 52,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 55,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 51,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 59,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 62,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 63,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 66,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 75,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 81,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 99,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 84,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 54,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 56,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 55,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 59,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 56,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 62,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 59,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 60,
+				"target_id": 65,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 60,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 63,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 62,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 66,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 67,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 77,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 79,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 64,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 65,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 66,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 66,
+				"target_id": 89,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 77,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 81,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 82,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 84,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 93,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 81,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 84,
+				"strength": 8.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 88,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 70,
+				"target_id": 99,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 71,
+				"target_id": 73,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 76,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 75,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 76,
+				"target_id": 84,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 83,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 77,
+				"target_id": 99,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 83,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 79,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 82,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 84,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 85,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 81,
+				"target_id": 90,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 88,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 82,
+				"target_id": 93,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 83,
+				"target_id": 99,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 84,
+				"target_id": 88,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 84,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 84,
+				"target_id": 99,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 88,
+				"target_id": 99,
+				"strength": 1.0000
+			}
+		]
+	}
+}

@@ -1,0 +1,358 @@
+﻿{
+	"network": {
+		"items": [
+			{
+				"id": 23,
+				"label": "toivonen (2022)",
+				"description": "<table><tr><td>Authors:</td><td>toivonen, annette</td></tr><tr><td>Title:</td><td>sustainability dimensions in space tourism: the case of finland</td></tr><tr><td>Source:</td><td>journal of sustainable tourism, 30(9), 2223-2239</td></tr><tr><td>Year:</td><td>2022</td></tr></table>",
+				"url": "https://doi.org/10.1080/09669582.2020.1783276",
+				"x": -0.3144,
+				"y": -0.8396,
+				"cluster": 2,
+				"weights": {
+					"Links": 4.0000,
+					"Total link strength": 8.0000,
+					"Citations": 19.0000,
+					"Norm. citations": 3.3529
+				},
+				"scores": {
+					"Pub. year": 2022.0000,
+					"Citations": 19.0000,
+					"Norm. citations": 3.3529
+				}
+			},
+			{
+				"id": 28,
+				"label": "olya (2020)",
+				"description": "<table><tr><td>Authors:</td><td>olya, hossein g. t.; han, heesup</td></tr><tr><td>Title:</td><td>antecedents of space traveler behavioral intention</td></tr><tr><td>Source:</td><td>journal of travel research, 59(3), 528-544</td></tr><tr><td>Year:</td><td>2020</td></tr></table>",
+				"url": "https://doi.org/10.1177/0047287519841714",
+				"x": -0.6776,
+				"y": 0.3754,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 28.0000,
+					"Citations": 57.0000,
+					"Norm. citations": 4.2343
+				},
+				"scores": {
+					"Pub. year": 2020.0000,
+					"Citations": 57.0000,
+					"Norm. citations": 4.2343
+				}
+			},
+			{
+				"id": 45,
+				"label": "chang (2017)",
+				"description": "<table><tr><td>Authors:</td><td>chang, yi-wei</td></tr><tr><td>Title:</td><td>a preliminary examination of the relationship between consumer attitude towards space travel and the development of innovative space tourism technology</td></tr><tr><td>Source:</td><td>current issues in tourism, 20(14), 1431-1453</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/10.1080/13683500.2015.1005580",
+				"x": -0.4506,
+				"y": 0.1446,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 24.0000,
+					"Citations": 19.0000,
+					"Norm. citations": 1.3971
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 19.0000,
+					"Norm. citations": 1.3971
+				}
+			},
+			{
+				"id": 48,
+				"label": "spector (2017)",
+				"description": "<table><tr><td>Authors:</td><td>spector, samuel; higham, james e. s.; doering, adam</td></tr><tr><td>Title:</td><td>beyond the biosphere: tourism, outer space, and sustainability</td></tr><tr><td>Source:</td><td>tourism recreation research, 42(3), 273-283</td></tr><tr><td>Year:</td><td>2017</td></tr></table>",
+				"url": "https://doi.org/10.1080/02508281.2017.1286062",
+				"x": 0.2601,
+				"y": -0.2280,
+				"cluster": 2,
+				"weights": {
+					"Links": 9.0000,
+					"Total link strength": 22.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 1.5441
+				},
+				"scores": {
+					"Pub. year": 2017.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 1.5441
+				}
+			},
+			{
+				"id": 52,
+				"label": "chang (2015)",
+				"description": "<table><tr><td>Authors:</td><td>chang, yi-wei</td></tr><tr><td>Title:</td><td>the first decade of commercial space tourism</td></tr><tr><td>Source:</td><td>acta astronautica, 108, 79-91</td></tr><tr><td>Year:</td><td>2015</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2014.12.004",
+				"x": -0.0391,
+				"y": -0.3799,
+				"cluster": 2,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 20.0000,
+					"Citations": 33.0000,
+					"Norm. citations": 1.5714
+				},
+				"scores": {
+					"Pub. year": 2015.0000,
+					"Citations": 33.0000,
+					"Norm. citations": 1.5714
+				}
+			},
+			{
+				"id": 63,
+				"label": "reddy (2012)",
+				"description": "<table><tr><td>Authors:</td><td>reddy, maharaj vijay; nica, mirela; wilkes, keith</td></tr><tr><td>Title:</td><td>space tourism: research recommendations for the future of the industry and perspectives of potential participants</td></tr><tr><td>Source:</td><td>tourism management, 33(5), 1093-1102</td></tr><tr><td>Year:</td><td>2012</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.tourman.2011.11.026",
+				"x": -0.5949,
+				"y": -0.1621,
+				"cluster": 1,
+				"weights": {
+					"Links": 7.0000,
+					"Total link strength": 24.0000,
+					"Citations": 42.0000,
+					"Norm. citations": 1.5849
+				},
+				"scores": {
+					"Pub. year": 2012.0000,
+					"Citations": 42.0000,
+					"Norm. citations": 1.5849
+				}
+			},
+			{
+				"id": 67,
+				"label": "cater (2010)",
+				"description": "<table><tr><td>Authors:</td><td>cater, carl iain</td></tr><tr><td>Title:</td><td>steps to space; opportunities for astrotourism</td></tr><tr><td>Source:</td><td>tourism management, 31(6), 838-845</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.tourman.2009.09.001",
+				"x": 0.5271,
+				"y": 0.3185,
+				"cluster": 3,
+				"weights": {
+					"Links": 8.0000,
+					"Total link strength": 19.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 1.7730
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 25.0000,
+					"Norm. citations": 1.7730
+				}
+			},
+			{
+				"id": 70,
+				"label": "collins (2010)",
+				"description": "<table><tr><td>Authors:</td><td>collins, patrick; autino, adriano</td></tr><tr><td>Title:</td><td>what the growth of a space tourism industry could contribute to employment, economic growth, environmental protection, education, culture and world peace</td></tr><tr><td>Source:</td><td>acta astronautica, 66(11-12), 1553-1562</td></tr><tr><td>Year:</td><td>2010</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.actaastro.2009.09.012",
+				"x": 0.7595,
+				"y": -0.3320,
+				"cluster": 2,
+				"weights": {
+					"Links": 3.0000,
+					"Total link strength": 3.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 1.4894
+				},
+				"scores": {
+					"Pub. year": 2010.0000,
+					"Citations": 21.0000,
+					"Norm. citations": 1.4894
+				}
+			},
+			{
+				"id": 77,
+				"label": "crouch (2009)",
+				"description": "<table><tr><td>Authors:</td><td>crouch, geoffrey i.; devinney, timothy m.; louviere, jordan j.; islam, towhidul</td></tr><tr><td>Title:</td><td>modelling consumer choice behaviour in space tourism</td></tr><tr><td>Source:</td><td>tourism management, 30(3), 441-454</td></tr><tr><td>Year:</td><td>2009</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.tourman.2008.07.003",
+				"x": -0.4919,
+				"y": 0.6866,
+				"cluster": 1,
+				"weights": {
+					"Links": 6.0000,
+					"Total link strength": 11.0000,
+					"Citations": 67.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Pub. year": 2009.0000,
+					"Citations": 67.0000,
+					"Norm. citations": 1.0000
+				}
+			},
+			{
+				"id": 93,
+				"label": "spennemann (2004)",
+				"description": "<table><tr><td>Authors:</td><td>spennemann, dhr</td></tr><tr><td>Title:</td><td>the ethics of treading on neil armstrong's footprints</td></tr><tr><td>Source:</td><td>space policy, 20(4), 279-290</td></tr><tr><td>Year:</td><td>2004</td></tr></table>",
+				"url": "https://doi.org/10.1016/j.spacepol.2004.08.005",
+				"x": 1.0219,
+				"y": 0.4165,
+				"cluster": 3,
+				"weights": {
+					"Links": 2.0000,
+					"Total link strength": 3.0000,
+					"Citations": 30.0000,
+					"Norm. citations": 1.0000
+				},
+				"scores": {
+					"Pub. year": 2004.0000,
+					"Citations": 30.0000,
+					"Norm. citations": 1.0000
+				}
+			}
+		],
+		"links": [
+			{
+				"source_id": 23,
+				"target_id": 45,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 48,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 52,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 23,
+				"target_id": 63,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 45,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 48,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 52,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 63,
+				"strength": 7.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 67,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 28,
+				"target_id": 77,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 48,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 52,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 63,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 67,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 45,
+				"target_id": 77,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 52,
+				"strength": 4.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 63,
+				"strength": 5.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 67,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 48,
+				"target_id": 93,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 63,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 67,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 52,
+				"target_id": 77,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 67,
+				"strength": 3.0000
+			},
+			{
+				"source_id": 63,
+				"target_id": 77,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 70,
+				"strength": 1.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 77,
+				"strength": 2.0000
+			},
+			{
+				"source_id": 67,
+				"target_id": 93,
+				"strength": 2.0000
+			}
+		]
+	}
+}
